@@ -1,0 +1,47 @@
+
+.menu{
+    background-color: aqua;
+    display: flex;
+    padding-top: 20px;
+    
+}
+.menu li{
+    list-style: none;
+    padding-right: 20px;
+
+}
+.vito{
+    border: 2px solid black;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    gap: 100PX;
+    margin-top: 2%;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    gap: 100PX;
+    margin-top: 2%;
+}
+.mot{
+    display: flex;
+    justify-content: center;
+    gap: 100PX;
+    margin-top: 2%;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 100PX;
+    margin-top: 2%;
+}
+
+.valider{
+    background-color: blue;
+}
+.annulé{
+    background-color:red;
+}
